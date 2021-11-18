@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justmikeZX
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on making a game (in Python and HTML and maybe JavaScript and CSS(?))
-- 📫 How to reach me: wait for me to add something here.
+- 👀 I’m interested in C++.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on making Oci's Adventures.
+- 📫 How to reach me: email justmikeZX@gmail.com
 
 <!---
 justmikeZX/justmikeZX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
